@@ -1,0 +1,19 @@
+body {
+  background-color: #eae1c8;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #3cbcc7;
+  border-width: thin;
+  width: 20%;
+}
+
+div {
+  margin: 5px;
+}
+
+h1,
+h3 {
+  color: #094c93;
+}
